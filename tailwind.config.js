@@ -9,7 +9,8 @@ export default {
     extend: {
       fontFamily:{
         display:["Titillium+Web","swap"]
-      }
+      },
+      
     },
     
   },
